@@ -25,7 +25,7 @@ CirCor DigiScope Phonocardiogram Dataset
 ## Results
 Accuracy: 61.9%
 Precision: 61.98%
-Recall: 60..98%
+Recall: 60.98%
 
 ## Future Work
 - Deep learning models
